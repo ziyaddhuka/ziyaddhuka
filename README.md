@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziyaddhuka" alt="ziyaddhuka" /></a> </p>
 
-- 🔭 I’m currently working on **Visual Question Answering**
+- 🔭 I’m currently working as a SDE with SAP Concur 🛫
 
 - 📫 How to reach me **ziyaddhuka7@gmail.com**
 
