@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ziyad Dhuka</h1>
-<h3 align="center">Constantly learning Machine Learning and Deep Learning techniques</h3>
+<h3 align="center">Constantly learning New Technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziyaddhuka&label=Profile%20views&color=0e75b6&style=flat" alt="ziyaddhuka" /> </p>
 
